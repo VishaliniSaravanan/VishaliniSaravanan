@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Linkedln-Vish-8.png" width="100%" alt="Creative Banner">
+  <img src="./Linkedln%20Vish%20(8).png" width="100%" alt="Creative Banner">
 </p>
 
 <p align="center">
