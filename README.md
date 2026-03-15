@@ -43,8 +43,8 @@ I thrive at the intersection of **Artificial Intelligence** and **Intelligent Sy
 
 ### 📊 GitHub Insights
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishaliniSaravanan&theme=highcontrast&hide_border=true&show_icons=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishaliniSaravanan&theme=highcontrast&hide_border=true&layout=compact" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VishaliniSaravanan&show_icons=true&title_color=d26d7b&icon_color=d26d7b&text_color=8c6b6b&bg_color=00000000&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishaliniSaravanan&layout=compact&title_color=d26d7b&text_color=8c6b6b&bg_color=00000000&hide_border=true" height="150" />
 </p>
 
 ---
@@ -54,5 +54,5 @@ I thrive at the intersection of **Artificial Intelligence** and **Intelligent Sy
 [<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />](mailto:vishalinisaravanan546@gmail.com)
 
 <p align="right">
-  <img src="https://visitcount.itsvg.in/api?id=VishaliniSaravanan&icon=0&color=FFB6C1" />
+  <img src="https://visitcount.itsvg.in/api?id=VishaliniSaravanan&icon=0&color=d26d7b" />
 </p>
