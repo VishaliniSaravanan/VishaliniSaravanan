@@ -25,14 +25,11 @@ I thrive at the intersection of **Artificial Intelligence** and **Intelligent Sy
 
 ### 🌟 Featured Projects
 
-**🛰️ SentinelWatch** Satellite change detection system using a **Siamese Vision Transformer** to identify land-surface changes from multi-temporal Sentinel-2 imagery. Generates spatial confidence maps with a Gradio interface.  
-*Tech: PyTorch, Vision Transformers, OpenCV, Gradio*
-
-**🛡️ RateGuard** Redis-backed API rate limiter implementing token bucket algorithms with **ML-based traffic classification**. Features a real-time dashboard for monitoring and adaptive throttling.  
-*Tech: Python, Redis, Machine Learning*
-
-**📓 NoteLooms** AI-powered study platform that transforms PDFs and YouTube content into summaries and flashcards using a **Retrieval-Augmented Generation (RAG)** pipeline.  
-*Tech: React, Flask, Gemini API, ChromaDB*
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **SentinelWatch** | Satellite change detection using a **Siamese Vision Transformer** to identify land-surface changes. Generates spatial confidence maps. | PyTorch, ViT, OpenCV, Gradio |
+| **RateGuard** | Redis-backed API rate limiter with **ML traffic classification** and real-time adaptive throttling dashboard. | Python, Redis, Machine Learning |
+| **NoteLooms** | AI study platform transforming PDFs/YouTube into summaries and flashcards via a **RAG pipeline**. | React, Flask, Gemini, ChromaDB |
 
 ---
 
