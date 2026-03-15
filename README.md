@@ -2,10 +2,6 @@
   <img src="./banner.png" width="100%" alt="Creative Banner">
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpx9uuk9YvHq/giphy.gif" width="100%" alt="Light Blue Aesthetic Workspace">
-</p>
-
 # ❄️ Vishalini S
 ### AI/ML Engineer | Machine Learning Researcher | Intelligent Systems
 
