@@ -1,89 +1,53 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VishaliniSaravanan/VishaliniSaravanan/main/github-header-banner.png" alt="Vishalini S Header Banner" width="100%">
+  <img src="./github-header-banner.png" width="100%">
 </p>
 
-# 💫 ABOUT ME
-
-<table border="0">
-  <tr>
-    <td width="65%" valign="top">
-      <h3>🚀 AI/ML ENGINEER | ML RESEARCHER | INTELLIGENT SYSTEMS</h3>
-      <p><i>"Creativity alone builds systems where logic finds its limit."</i></p>
-      <p>I thrive at the intersection of <b>Artificial Intelligence</b> and <b>Intelligent Systems</b>, building scalable and production-ready pipelines that translate research into deployable architectures. My work focuses on model optimization and integrating modern AI models into practical applications.</p>
-      <p><b>Currently Exploring:</b></p>
-      <p>
-        <img src="https://img.shields.io/badge/LLMs-%23FF6F00?style=for-the-badge" height="28px"/>
-        <img src="https://img.shields.io/badge/RAG-%23FFCC00?style=for-the-badge" height="28px"/>
-        <img src="https://img.shields.io/badge/Computer%20Vision-%23FF9900?style=for-the-badge" height="28px"/>
-        <img src="https://img.shields.io/badge/Representation%20Learning-%23CC6600?style=for-the-badge" height="28px"/>
-        <img src="https://img.shields.io/badge/Efficient%20Inference-%23FF3300?style=for-the-badge" height="28px"/>
-      </p>
-    </td>
-    <td width="35%" valign="top">
-      <img src="https://lh3.googleusercontent.com/d/1XyO3Z-Y6G-E1fW8Y-G7u6z0B1kX-Z1O1" alt="AI Research Illustration" width="100%">
-    </td>
-  </tr>
-</table>
-
-***
-
-# 🛠️ TECH STACK
-
-> Subheadings tell a story. Grouping by domain shows expertise.
-
-### 🔤 PROGRAMMING LANGUAGES
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-%23007672.svg?style=for-the-badge&logo=mathworks&logoColor=white)
-
-### 🧠 AI / ML / DATA BUSINESS
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
-
-### 🏗️ FRAMEWORKS / LIBRARIES / WEB / APP
-![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
-
-### ☁️ CLOUD / INFRASTRUCTURE / DEPLOYMENT
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
-
-***
-
-# 📊 GITHUB ANALYTICS
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishaliniSaravanan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats" width="100%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishaliniSaravanan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="100%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueXpueGZueXpueGZueXpueGZueXpueGZueXpueGZueXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62S19W89P2/giphy.gif" width="300">
 </p>
 
-***
+# 💫 Vishalini S
+### AI/ML Engineer | Machine Learning Researcher | Intelligent Systems
 
-# 🌐 CONNECT WITH ME
+> *"Creativity alone builds systems where logic finds its limit."*
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/s-vishalini" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:vishalinisaravanan546@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+I thrive at the intersection of **Artificial Intelligence** and **Intelligent Systems**, building scalable and production-ready pipelines. My work bridges the gap between research-level complexity and real-world software engineering.
+
+---
+
+### 🧠 Research & Focus
+● **Large Language Models** & Efficient Inference  
+● **Retrieval-Augmented Generation** (RAG)  
+● **Computer Vision** & Representation Learning  
+● **Quantum-AI** Intersection  
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-007672?style=flat&logo=mathworks&logoColor=white)
+
+**AI / Machine Learning** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+**Web & Frameworks** ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+**Infrastructure & Design** ![GCP](https://img.shields.io/badge/GoogleCloud-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+
+---
+
+### 📊 Performance Metrics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=VishaliniSaravanan&theme=transparent&hide_border=true&show_icons=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishaliniSaravanan&theme=transparent&hide_border=true&layout=compact" height="150" />
+</p>
+
+---
+
+### 🌐 Let's Connect
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/s-vishalini) 
+[<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />](mailto:vishalinisaravanan546@gmail.com)
+
+<p align="right">
+  <img src="https://visitcount.itsvg.in/api?id=VishaliniSaravanan&icon=0&color=0" />
 </p>
