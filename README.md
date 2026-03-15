@@ -16,8 +16,8 @@ I thrive at the intersection of **Artificial Intelligence** and **Intelligent Sy
 ### 🧠 Research & Focus
 ● **Large Language Models** & Efficient Inference  
 ● **Retrieval-Augmented Generation** (RAG)  
-● **Computer Vision** & Representation Learning  
-● **Space Tech** & Satellite Imagery Analysis
+● **Space Tech** & Satellite Imagery Analysis  
+● **Industrial Analytics** (Dynamic Time Warping & "Golden Signatures")
 
 ---
 
@@ -25,19 +25,28 @@ I thrive at the intersection of **Artificial Intelligence** and **Intelligent Sy
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **SentinelWatch** | Satellite change detection using a **Siamese Vision Transformer** to identify land-surface changes. | PyTorch, ViT, OpenCV, Gradio |
-| **RateGuard** | Redis-backed API rate limiter with **ML traffic classification** and real-time adaptive throttling. | Python, Redis, Machine Learning |
+| **SentinelWatch** | Satellite change detection using a **Siamese Vision Transformer** to identify land-surface changes. | PyTorch, ViT, OpenCV |
+| **RateGuard** | Redis-backed API rate limiter with **ML traffic classification** and real-time adaptive throttling. | Java, Python, Redis |
 | **NoteLooms** | AI study platform transforming PDFs/YouTube into summaries and flashcards via a **RAG pipeline**. | React, Flask, Gemini, ChromaDB |
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-007672?style=flat&logo=mathworks&logoColor=white)
+#### **Programming Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) 
 
-**AI / Machine Learning** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+#### **Database Systems**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Vector DB](https://img.shields.io/badge/Vector%20DB-000000?style=flat&logo=pinecone&logoColor=teal)
 
-**Web & Frameworks** ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+#### **Machine Learning & Data Science**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+
+#### **Web & Frameworks**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+#### **Cloud & DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
