@@ -30,7 +30,7 @@ I thrive at the intersection of **Artificial Intelligence** and **Intelligent Sy
 ### 🛠️ Tech Stack
 
 #### **Programming Languages**
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) 
 
 #### **Database Systems**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Vector DB](https://img.shields.io/badge/Vector%20DB-00BFFF?style=flat&logo=pinecone&logoColor=white)
