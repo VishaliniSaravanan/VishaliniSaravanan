@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=760&lines=Building+Intelligent+Systems;AI+%26+Quantum+Technologies;Machine+Learning;Research+%26+Innovation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=760&lines=Building+Intelligent+Systems;AI+%26+Quantum+Technologies;Machine+Learning;Research+%26+Innovation" alt="Building Intelligent Systems | AI & Quantum Technologies | Machine Learning | Research & Innovation" />
   </a>
 </p>
 
@@ -34,40 +34,39 @@
 
 | | |
 | :--- | :--- |
-| 🤖 **Large Language Models** & Efficient Inference | 🔎 **Retrieval-Augmented Generation** (RAG) |
-| 🛰️ **Space Tech** & Satellite Imagery Analysis | 📈 **Industrial Analytics** (Dynamic Time Warping & "Golden Signatures") |
+| 🧬 **Quantum Machine Learning**: QFIM-guided variational quantum classifiers | 🔎 **Retrieval-Augmented Generation**: source-aware retrieval |
+| ⚡ **LLM Optimization**: curvature-guided mixed-precision efficiency | 👁️ **Computer Vision**: spatio-temporal tracking and re-identification |
+| 🌍 **ESG Intelligence**: RAG, discourse graphs, knowledge residency | 💡 **Explainable Classification**: interpretable quantum learning |
 
 ---
 
 ## 🛠️ Skills
 
-**Programming & Scripting:**  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+**Languages:**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
-**Data & Databases:**  
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Vector%20DB-00BFFF?style=for-the-badge&logo=pinecone&logoColor=white" />
+**AI & Machine Learning:**  
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Sentence--Transformers-6C63FF?style=for-the-badge" /> <img src="https://img.shields.io/badge/Cross--Encoders-8A2BE2?style=for-the-badge" /> <img src="https://img.shields.io/badge/RAG-00BFFF?style=for-the-badge" /> <img src="https://img.shields.io/badge/LLM-FF6F61?style=for-the-badge" />
 
-**Machine Learning & Data Science:**  
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+**LLM Frameworks:**  
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/LlamaIndex-7B61FF?style=for-the-badge" /> <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 
-**Web & Frameworks:**  
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+**Vector DBs & Search:**  
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" /> <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+
+**Web & Backends:**  
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge" />
+
+**Databases & Tools:**  
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
 ---
 
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishaliniSaravanan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishaliniSaravanan&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=VishaliniSaravanan&theme=tokyonight&hide_border=true&border_radius=12" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishaliniSaravanan&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VishaliniSaravanan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishaliniSaravanan&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="165" alt="Top languages" />
 </p>
 
 ---
@@ -77,7 +76,7 @@
 ### 📬 Reach Me Directly:
 
 <p align="center">
-  <a href="mailto:vishalinisaravanan546@gmail.com"><img src="https://img.shields.io/badge/vishalinisaravanan546@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:vishalinisaravanan546@gmail.com"><img src="https://img.shields.io/badge/2vishalinisaravanan546@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -89,7 +88,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=VishaliniSaravanan&icon=0&color=00BFFF" />
+  <img src="https://komarev.com/ghpvc/?username=VishaliniSaravanan&color=00BFFF&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
 <p align="center">
