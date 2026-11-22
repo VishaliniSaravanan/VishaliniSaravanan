@@ -3,7 +3,7 @@
 </p>
 
 # ❄️ Vishalini S
-### Building Intelligent Systems | AI & Quantum Technologies | Research & Innovation
+### Building Intelligent Systems | AI & Quantum Technologies | Machine Learning | Research & Innovation
 
 I thrive at the intersection of **Artificial Intelligence** and **Intelligent Systems**, bridging research-level ideas with real-world software engineering.
 
@@ -24,19 +24,19 @@ To me, innovation is where analytical thinking meets creative exploration. I am 
 
 ---
 
-### 🛠️ Tech Stack
+## Skills
 
-#### **Programming Languages**
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) 
+**Programming & Scripting:**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 
-#### **Database Systems**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Vector DB](https://img.shields.io/badge/Vector%20DB-00BFFF?style=flat&logo=pinecone&logoColor=white)
+**Data & Databases:**  
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Vector%20DB-00BFFF?style=for-the-badge&logo=pinecone&logoColor=white" />
 
-#### **Machine Learning & Data Science**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-87CEEB?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-ADD8E6?style=flat&logo=langchain&logoColor=black)
+**Machine Learning & Data Science:**  
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 
-#### **Web & Frameworks**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-87CEFA?style=flat&logo=flask&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+**Web & Frameworks:**  
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
 ---
 
@@ -48,9 +48,23 @@ To me, innovation is where analytical thinking meets creative exploration. I am 
 
 ---
 
-### 🌐 Connect With Me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/s-vishalini) 
-[<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />](mailto:vishalinisaravanan546@gmail.com)
+## Connect
+
+### 📬 Reach Me Directly:
+
+<p align="center">
+  <a href="mailto:vishalinisaravanan546@gmail.com"><img src="https://img.shields.io/badge/23csec28vishalinisaravanan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <a href="https://orcid.org/0009-0001-5276-9036"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/s-vishalini/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@vishalinisaravanan"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://scholar.google.com/citations?hl=en&user=LcG1QQkAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
+  <a href="https://vishalinis-portfolio.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-46E3B7?style=for-the-badge&logo=render&logoColor=white" /></a>
+</p>
+
+---
 
 <p align="right">
   <img src="https://visitcount.itsvg.in/api?id=VishaliniSaravanan&icon=0&color=00BFFF" />
