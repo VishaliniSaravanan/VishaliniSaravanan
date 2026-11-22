@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=180&section=header&text=Vishalini%20S&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%" alt="Vishalini S" />
+ <img src="./banner.png" width="100%" alt="Vishalini S" />
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@
 | | |
 | :--- | :--- |
 | 🧬 **Quantum Machine Learning**: QFIM-guided variational quantum classifiers | 🔎 **Retrieval-Augmented Generation**: source-aware retrieval |
-| ⚡ **LLM Optimization**: curvature-guided mixed-precision efficiency | 👁️ **Computer Vision**: spatio-temporal tracking and re-identification |
+| ⚡ **LLM Optimization**: curvature-guided mixed-precision efficiency |💻 **Computer Vision**: spatio-temporal tracking and re-identification |
 | 🌍 **ESG Intelligence**: RAG, discourse graphs, knowledge residency | 💡 **Explainable Classification**: interpretable quantum learning |
 
 ---
