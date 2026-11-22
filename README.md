@@ -1,16 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=220&section=header&text=Vishalini%20S&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20and%20Quantum%20Technologies&descSize=20&descAlignY=60" width="100%" alt="Vishalini S" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=300&section=header&text=Vishalini%20S&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20and%20Quantum%20Technologies&descSize=20&descAlignY=56" width="100%" alt="Vishalini S" />
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=760&lines=Building+Intelligent+Systems;AI+and+Quantum+Technologies;Machine+Learning;Research+and+Innovation" alt="Building Intelligent Systems | AI and Quantum Technologies | Machine Learning | Research and Innovation" />
-  </a>
-</p>
+<h3 align="center">Building Intelligent Systems | AI and Quantum Technologies | Machine Learning | Research and Innovation</h3>
 
 <p align="center">
-  I thrive at the intersection of <b>Artificial Intelligence</b> and <b>Intelligent Systems</b>,<br>
-  bridging research-level ideas with real-world software engineering.
+Exploring the frontiers of intelligent computing, from AI to emerging quantum paradigms, with a focus on translating research into practical innovation.
 </p>
 
 <p align="center">
@@ -46,7 +41,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
 **AI & Machine Learning:**  
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-6C5CE7?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Sentence--Transformers-6C63FF?style=for-the-badge" /> <img src="https://img.shields.io/badge/Cross--Encoders-8A2BE2?style=for-the-badge" /> <img src="https://img.shields.io/badge/RAG-00BFFF?style=for-the-badge" /> <img src="https://img.shields.io/badge/LLM-FF6F61?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-6C5CE7?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/RAG-00BFFF?style=for-the-badge" /> <img src="https://img.shields.io/badge/LLM-FF6F61?style=for-the-badge" />
 
 **LLM Frameworks:**  
 <img src="https://img.shields.io/badge/LangChain-3B7A57?style=for-the-badge&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/LlamaIndex-7B61FF?style=for-the-badge" /> <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
@@ -75,6 +70,20 @@
   </picture>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=VishaliniSaravanan&theme=tokyonight&hide_border=true&border_radius=12">
+    <img src="https://streak-stats.demolab.com?user=VishaliniSaravanan&theme=default&hide_border=true&border_radius=12" alt="GitHub streak" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=VishaliniSaravanan&theme=tokyo-night&hide_border=true&area=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishaliniSaravanan&theme=github-light&hide_border=true&area=true" width="100%" alt="Contribution graph" />
+  </picture>
+</p>
+
 ---
 
 ## 🌐 Connect
@@ -94,9 +103,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VishaliniSaravanan&color=00BFFF&style=for-the-badge&label=PROFILE+VIEWS" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=180&section=footer" width="100%" />
 </p>
