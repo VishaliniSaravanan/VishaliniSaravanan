@@ -1,6 +1,8 @@
 <p align="center">
- <img src="./banner.png" width="100%" alt="Vishalini S" />
+  <img src="./banner.png" width="100%" alt="Banner" />
 </p>
+
+<h1 align="center">❄️ Vishalini S</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -9,7 +11,8 @@
 </p>
 
 <p align="center">
- Exploring the frontiers of intelligent computing, from AI to emerging quantum paradigms, with a focus on translating research into practical innovation.
+  Exploring the frontiers of intelligent computing, from AI to emerging quantum paradigms,<br>
+  with a focus on translating research into practical innovation.
 </p>
 
 <p align="center">
@@ -34,7 +37,7 @@
 | | |
 | :--- | :--- |
 | 🧬 **Quantum Machine Learning**: QFIM-guided variational quantum classifiers | 🔎 **Retrieval-Augmented Generation**: source-aware retrieval |
-| ⚡ **LLM Optimization**: curvature-guided mixed-precision efficiency |💻 **Computer Vision**: spatio-temporal tracking and re-identification |
+| ⚡ **LLM Optimization**: curvature-guided mixed-precision efficiency | 💻 **Computer Vision**: spatio-temporal tracking and re-identification |
 | 🌍 **ESG Intelligence**: RAG, discourse graphs, knowledge residency | 💡 **Explainable Classification**: interpretable quantum learning |
 
 ---
