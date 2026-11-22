@@ -1,11 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=300&section=header&text=Vishalini%20S&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20and%20Quantum%20Technologies&descSize=20&descAlignY=56" width="100%" alt="Vishalini S" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=180&section=header&text=Vishalini%20S&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%" alt="Vishalini S" />
 </p>
 
-<h3 align="center">Building Intelligent Systems | AI and Quantum Technologies | Machine Learning | Research and Innovation</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=760&lines=Building+Intelligent+Systems;AI+and+Quantum+Technologies;Machine+Learning;Research+and+Innovation" alt="Building Intelligent Systems | AI and Quantum Technologies | Machine Learning | Research and Innovation" />
+  </a>
+</p>
 
 <p align="center">
-Exploring the frontiers of intelligent computing, from AI to emerging quantum paradigms, with a focus on translating research into practical innovation.
+ Exploring the frontiers of intelligent computing, from AI to emerging quantum paradigms, with a focus on translating research into practical innovation.
 </p>
 
 <p align="center">
@@ -103,5 +107,5 @@ Exploring the frontiers of intelligent computing, from AI to emerging quantum pa
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=180&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=70&section=footer" width="100%" />
 </p>
