@@ -2,13 +2,21 @@
   <img src="./banner.png" width="100%" alt="Banner" />
 </p>
 
-<h1 align="center">❄️ Vishalini S</h1>
+<table align="center">
+  <tr>
+    <td valign="middle"><h1>❄️</h1></td>
+    <td valign="middle">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=46&duration=2500&repeat=false&color=FFFFFF&vCenter=true&width=360&height=70&lines=Vishalini+S">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=46&duration=2500&repeat=false&color=1F2328&vCenter=true&width=360&height=70&lines=Vishalini+S" alt="Vishalini S" />
+      </picture>
+    </td>
+    <td valign="middle">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00BFFF&vCenter=true&width=430&height=70&lines=Building+Intelligent+Systems;AI+and+Quantum+Technologies;Machine+Learning;Research+and+Innovation" alt="Building Intelligent Systems | AI and Quantum Technologies | Machine Learning | Research and Innovation" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=760&lines=Building+Intelligent+Systems;AI+and+Quantum+Technologies;Machine+Learning;Research+and+Innovation" alt="Building Intelligent Systems | AI and Quantum Technologies | Machine Learning | Research and Innovation" />
-  </a>
-</p>
 
 <p align="center">
   Exploring the frontiers of intelligent computing, from AI to emerging quantum paradigms,<br>
