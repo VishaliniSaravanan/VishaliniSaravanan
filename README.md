@@ -3,9 +3,16 @@
 </p>
 
 # ❄️ Vishalini S
-### AI/ML Engineer | Machine Learning Researcher | Intelligent Systems
+### Building Intelligent Systems | AI & Quantum Technologies | Research & Innovation
 
-I thrive at the intersection of **Artificial Intelligence** and **Intelligent Systems**, building scalable and production-ready pipelines. My work bridges the gap between research-level complexity and real-world software engineering.
+I thrive at the intersection of **Artificial Intelligence** and **Intelligent Systems**, bridging research-level ideas with real-world software engineering.
+
+---
+
+### 👩‍💻 About Me
+I am fascinated by how simple, everyday ideas become intelligent solutions. I am drawn to Artificial Intelligence and emerging computing paradigms, particularly where quantum computing meets machine learning, and how that intersection can reshape the way we solve complex problems. Research and experimentation keep expanding how I think about what technology can do.
+
+To me, innovation is where analytical thinking meets creative exploration. I am most interested in looking beyond established approaches, understanding what new technologies make possible, and turning concepts into practical applications.
 
 ---
 
@@ -14,16 +21,6 @@ I thrive at the intersection of **Artificial Intelligence** and **Intelligent Sy
 ● **Retrieval-Augmented Generation** (RAG)  
 ● **Space Tech** & Satellite Imagery Analysis  
 ● **Industrial Analytics** (Dynamic Time Warping & "Golden Signatures")
-
----
-
-### 🌟 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **SentinelWatch** | Satellite change detection using a **Siamese Vision Transformer**. | PyTorch, ViT, OpenCV |
-| **RateGuard** | Redis-backed API rate limiter with **ML traffic classification**. | Java, Python, Redis |
-| **NoteLooms** | AI study platform transforming PDFs/YouTube via a **RAG pipeline**. | React, Flask, Gemini |
 
 ---
 
